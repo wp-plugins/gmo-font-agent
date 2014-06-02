@@ -21,18 +21,18 @@ GMO Font Agent is the web font plugin which helps you easily use Google fonts on
 There are many brilliant WordPress plugins that uses Google Fonts around, however the GMO Font Agent is one of the most user friendly plugin in comparison with others.
 
 = Web Fonts =
-Web fonts are displayed on the web browser by using fonts on the server while reading text on the websites, which helps you dramatically improve productivity when editing, renewing, and creating website since you are not required to make draw images to place fancy fonts. Since crawler of the search engine reads the html sauce of the website, text is far more SEO effective compared to the images or flash, and even responsive layout site design wonÅft be affected on any devices.   CSS3Åfs newest trend is not the only thing.  Web fonts have other important elements that would benefit users.
+Web fonts are displayed on the web browser by using fonts on the server while reading text on the websites, which helps you dramatically improve productivity when editing, renewing, and creating website since you are not required to make draw images to place fancy fonts. Since crawler of the search engine reads the html sauce of the website, text is far more SEO effective compared to the images or flash, and even responsive layout site design won't be affected on any devices.   CSS3's newest trend is not the only thing.  Web fonts have other important elements that would benefit users.
 
 = Key functions of the GMO Font Agent =
 Font size and style can be selected from "Serif", "Sans-Serif", "Display" and "Handwriting" for each "body" and "heading" categories.
 
-Setting Page(GMO Font Agent_Description.png)
+1. Setting Page(GMO Font Agent_Description.png)
 
 = GMO Font Agent Resources =
-*Visit the GMO Font Agent [official homepage](http://wpshop.com/)
-*Get GMO Font Agent Support via [the WordPress.org forums(http://wordpress.org/support/plugin/gmo-font-agent)
-*See [WordPress Themes by the same author](http://profiles.wordpress.org/takeaki-nagashima/)
-*Follow WPShop byGMO on [Facebook](https://www.facebook.com/wpshop.gmo), [Twitter](https://twitter.com/wpshop_gmo)
+* Visit the GMO Font Agent [official homepage](http://wpshop.com/)
+* Get GMO Font Agent Support via [the WordPress.org forums(http://wordpress.org/support/plugin/gmo-font-agent)
+* See [WordPress Themes by the same author](http://profiles.wordpress.org/takeaki-nagashima/)
+* Follow WPShop byGMO on [Facebook](https://www.facebook.com/wpshop.gmo), [Twitter](https://twitter.com/wpshop_gmo)
 
 
 
@@ -69,7 +69,7 @@ Search and download plugin from either WordPress admin page or http://wordpress.
 
 How to Use:
 
-Google Fonts API Key is required to use GMO Font Agent plugin.  Please refer the userÅfs instruction for registering a key.
+Google Fonts API Key is required to use GMO Font Agent plugin.  Please refer the user's instruction for registering a key.
 When key is registered, 634 fonts can be used.
 
 Instruction:
