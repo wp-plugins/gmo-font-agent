@@ -104,7 +104,7 @@
 <div id="gmoplugRight">
 <h3>How to Use</h3>
 <ul>
-<li><a href="http://support.wpshop.com/?p=508" target="_blank">How to use the GMO Font Agents</a></li>
+<li><a href="http://support.wpshop.com/?p=508" target="_blank">How to use the GMO Font Agent</a></li>
 </ul>
 <h3>WordPress Themes</h3>
 <ul>
