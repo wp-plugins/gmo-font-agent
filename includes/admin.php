@@ -43,6 +43,11 @@
                     <input id="font-size-<?php echo preg_replace("/^(\.|\#)/", "_", $tag); ?>" class="font-size" type="text" name="styles[<?php echo $tag; ?>][font-size]"
                             value="<?php $font_size = intval($this->get_style($tag, 'font-size')); if ($font_size) echo $font_size; ?>" size=4 data-tag="<?php echo $tag; ?>"> px
                 </li>
+                <li>
+        			<p><input type="checkbox" name="styles[<?php echo $tag; ?>][font-flag]" value="true" <?php $font_flag = $this->get_style($tag, 'font-flag'); if ($font_flag) echo 'checked'; ?>>color</p>
+			        <div id="color_picker_<?php echo preg_replace("/^(\.|\#)/", "_", $tag); ?>"> </div>
+                    <p><input id="font-color-<?php echo preg_replace("/^(\.|\#)/", "_", $tag); ?>" class="font-color" type="text" name="styles[<?php echo $tag; ?>][font-color]" value="<?php $font_color = $this->get_style($tag, 'font-color'); if ($font_color) echo $font_color; ?>" size=10 data-tag="<?php echo $tag; ?>"></p>
+                </li>
             </ul>
         </div>
         <div class="beta" data-tag="<?php echo $tag; ?>">

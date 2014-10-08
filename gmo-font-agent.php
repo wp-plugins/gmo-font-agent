@@ -674,7 +674,7 @@ public function plugins_loaded()
 
     add_action("wp_ajax_tinymce_iconfonts_popup", array($this, "wp_ajax_tinymce_iconfonts_popup"));
     add_action("wp_ajax_tinymce_iconfonts_script", array($this, "wp_ajax_tinymce_iconfonts_script"));
-    add_action("wp_ajax_fonts", array($this, "wp_ajax_fonts"));
+    add_action("wp_ajax_fonts", array($this, "wp_ajax_fonts"));	
 
     add_post_type_support('page', 'excerpt');
 
@@ -794,6 +794,9 @@ public function wp_head()
                 $css[] = sprintf('font-size: %dpx !important', intval($style['font-size']));
                 //$css[] = 'line-height: 1.25 !important';
             }
+            if (isset($style['font-flag'])) {
+                $css[] = sprintf('color: %s !important', $style['font-color']);
+            }
             if (count($css)) {
                 printf('%s{%s}', $tag, join(';', $css).';');
             }
@@ -804,6 +807,11 @@ public function wp_head()
 
 public function admin_enqueue_scripts()
 {
+	wp_enqueue_script('jquery');
+	wp_enqueue_script( 'farbtastic' );
+	wp_enqueue_style( 'farbtastic' );
+	wp_enqueue_script('colorpic',plugin_dir_url( __FILE__ ).'js/colorpic.js');
+	
     $screen = get_current_screen();
     if ($screen->base !== 'settings_page_gmofontagent') {
         return;
