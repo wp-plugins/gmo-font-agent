@@ -2,14 +2,14 @@
 
 Plugin Name: GMO Font Agent
 Plugin URI: 
-Author: WP Shop byGMO
-Author URI: http://www.wpshop.com
+Author: GMO WP Cloud
+Author URI: https://www.wpcloud.jp/en/
 Contributors: Takeaki Nagashima
 Donation Link: 
 Tags: Slider, Simple, Effects
 Requires at least: 3.8.1
-Tested up to: 4.0.1 
-Stable tag: Version 1.4 
+Tested up to: 4.1.1 
+Stable tag: Version 1.5 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,10 +29,10 @@ Font size and style can be selected from "Serif", "Sans-Serif", "Display" and "H
 1. Setting Page(GMO Font Agent_Description.png)
 
 = GMO Font Agent Resources =
-* Visit the GMO Font Agent [official homepage](http://wpshop.com/)
+* Visit the GMO Font Agent [official website](https://www.wpcloud.jp/themes/#plugins)
 * Get GMO Font Agent Support via [the WordPress.org forums(http://wordpress.org/support/plugin/gmo-font-agent)
 * See [WordPress Themes by the same author](http://profiles.wordpress.org/takeaki-nagashima/)
-* Follow WPShop byGMO on [Facebook](https://www.facebook.com/wpshop.gmo), [Twitter](https://twitter.com/wpshop_gmo)
+* Follow WPShop byGMO on [Facebook](https://www.facebook.com/gmowpcloud), [Twitter](https://twitter.com/gmowpcloud)
 
 
 
@@ -74,9 +74,9 @@ When key is registered, 634 fonts can be used.
 
 Instruction:
 
-Please refer [here](http://support.wpshop.com/) for the GMO Font Agent instruction.
+Please refer [here](http://support.wpcloud.jp/en/) for the GMO Font Agent instruction.
 
-We have other plugins and themes from [WP Shop byGMO](http://wpshop.com/).
+We have other plugins and themes from [GMO WP Cloud](https://wpcloud.jp/themes).
 
 
 == Frequently Asked Questions ==
@@ -93,7 +93,7 @@ With the GMO Font Agent, you can be setup fonts by actually viewing sample fonts
 = Is Jerry Maguire shows up in the GMO Font Agent? =
 No. Unfortunately the GMO Font Agent does not support sports agents. But yes, GMO Font Agent values the heart too.
 
-Click [here](http://wpshop.com/) to visit GMO Font Agent's host, WP Shop byGMO's website.
+Click [here](http://wpcloud.jp/en/) to visit GMO Font Agent's host, GMO WP Cloud.
 
 == Changelog == 
 
