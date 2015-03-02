@@ -5,7 +5,7 @@
  * Description: GMO Font Agent plugin works with Google fonts, gives you a choice to use variety of stylish web fonts. The plugin is genericon and IcoMoon compatible, to enhance its usability. Icons can be inserted from the post editor.
  * Version:     1.5
  * Author:      GMO WP Cloud
- * Author URI:  http://www.wpshop.com
+ * Author URI:  https://www.wpcloud.jp/en/
  * License:     GPLv2
  * Text Domain: gmofontagent
  * Domain Path: /languages
